@@ -16,7 +16,7 @@
   }
   .btn:hover {
     scale: 1.1;
-    background-color: rgba((3, 131, 99, 0.919));
+    background-color: rgba(13, 232, 27, 0.919);
     color: black;
     border-color: rgb(255, 255, 255);
   }
